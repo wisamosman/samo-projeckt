@@ -26,3 +26,7 @@ border-bottom-right-radius: 50px;
 table{
     background-color: rgb(188, 143, 176);
 }
+img{ 
+    width: 300px;
+    height: 300px;
+}
