@@ -30,3 +30,6 @@ img{
     width: 300px;
     height: 300px;
 }
+img{
+    box-shadow: 50px 28px 6px 15px rgba(217,50,139,1);
+}
