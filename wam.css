@@ -26,3 +26,7 @@ border-bottom-right-radius: 50px;
 table{
     background-color: rgb(188, 143, 176);
 }
+p{
+    margin: 200px 100px 100px 500px;
+    padding: 70px 50px 50px 100px;
+}
