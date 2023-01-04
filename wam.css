@@ -1,8 +1,8 @@
 body{
-    background-color: beige;
+    background-color: rgb(232, 220, 245);
 }
 h1{
-    background-color: rosybrown;
+    background-color: rgb(188, 143, 176);
 }
 .ana{
     display: inline;
@@ -18,4 +18,11 @@ border-bottom-right-radius: 50px;
 }
 .ana{
     box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+}
+#ws{
+    margin: -165px 100px 100px 100px;
+    padding: 10px 50px 10px 10px;
+}
+table{
+    background-color: rgb(188, 143, 176);
 }
